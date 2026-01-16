@@ -7,7 +7,7 @@
 ###
 
 <p align="left">
-- Full Stack Developer<br>
+- CyberSecurity Developer<br>
 - Projetista de Automação/Instrumentação<br>
 - Técnico em Análise e Desenvolvimento de Sistemas<br>
 - Estudante de Engenharia da Computação<br><br>
